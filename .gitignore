@@ -1,10 +1,39 @@
-# Python-generated files
+# === Python ===
 __pycache__/
-*.py[oc]
+*.py[cod]
+*$py.class
+
+# === Ambientes virtuais (uv) ===
+.venv/
+
+# === Cache do uv ===
+.uv/
+.uv-cache/
+uv-cache/
+
+# === Build / distribuição ===
 build/
 dist/
-wheels/
-*.egg-info
+*.egg-info/
 
-# Virtual environments
-.venv
+# === Testes / cobertura ===
+.pytest_cache/
+.coverage
+htmlcov/
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === IDEs / editores ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Sistema operacional ===
+.DS_Store
+Thumbs.db
+
+# === Logs / temporários ===
+*.log
+*.tmp
