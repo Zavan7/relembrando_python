@@ -42,7 +42,13 @@ O objetivo principal é **reforçar os fundamentos da linguagem**, consolidar bo
 ├── pyproject.toml
 ├── python_advanced
 │   ├── aulas
+│   │   ├── aula001.py
+│   │   ├── aula002.py
+│   │   ├── aula003.py
+|   |   |__ ...
 │   └── exercicios
+│       ├── exercicio001.py
+│       └── exercicio002.py
 ├── python_basic
 │   ├── aulas
 │   │   ├── aula001.py
@@ -54,6 +60,12 @@ O objetivo principal é **reforçar os fundamentos da linguagem**, consolidar bo
 │       └── exercicio002.py
 ├── python_intermediary
 │   ├── aulas
+│   │   ├── aula001.py
+│   │   ├── aula002.py
+│   │   ├── aula003.py
+|   |   |__ ...
 │   └── exercicios
+│       ├── exercicio001.py
+│       └── exercicio002.py
 ├── README.md
 └── uv.lock
