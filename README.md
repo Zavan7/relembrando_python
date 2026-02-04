@@ -1,0 +1,59 @@
+# Python Básico ao Avançado — Revisão de Estudos
+
+Este repositório contém anotações, exemplos práticos e exercícios desenvolvidos durante a **revisão do curso de Python do professor Luiz Otávio Miranda**.
+
+O objetivo principal é **reforçar os fundamentos da linguagem**, consolidar boas práticas e evoluir gradualmente para conceitos mais avançados, com foco em aplicação prática.
+
+---
+
+## 📌 Objetivos do Repositório
+
+- Revisitar conceitos fundamentais do Python
+- Consolidar lógica de programação
+- Praticar escrita de código limpo e legível
+- Criar uma base sólida para estudos futuros (RPA, automação, backend, etc.)
+- Servir como material de consulta pessoal
+
+---
+
+## 📚 Conteúdos Abordados
+
+- Sintaxe básica do Python
+- Tipos primitivos (`int`, `float`, `str`, `bool`)
+- Entrada e saída de dados (`input`, `print`)
+- Operadores aritméticos e lógicos
+- Estruturas condicionais (`if`, `elif`, `else`)
+- Estruturas de repetição (`for`, `while`)
+- Funções (incluindo `lambda`)
+- Dicionários, listas, tuplas e conjuntos
+- Manipulação de datas
+- Exercícios práticos e desafios
+
+> Vou atualizando os conceitos conforme o curso for progredindo
+
+> O conteúdo evolui do **básico ao intermediário**, acompanhando a estrutura do curso original.
+
+---
+
+## 🗂 Estrutura do Repositório
+
+```text
+├── main.py
+├── pyproject.toml
+├── python_advanced
+│   ├── aulas
+│   └── exercicios
+├── python_basic
+│   ├── aulas
+│   │   ├── aula001.py
+│   │   ├── aula002.py
+│   │   ├── aula003.py
+|   |   |__ ...
+│   └── exercicios
+│       ├── exercicio001.py
+│       └── exercicio002.py
+├── python_intermediary
+│   ├── aulas
+│   └── exercicios
+├── README.md
+└── uv.lock
