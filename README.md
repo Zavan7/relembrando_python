@@ -37,9 +37,9 @@ O objetivo principal é **reforçar os fundamentos da linguagem**, consolidar bo
 
 ## 📚 Livros Complementares
 
-* **Python: Escreva seus primeiros programas**
-* **Aprendendo Padrões de Projeto em Python**
-* **Web Scraping com Python – 3ª Edição: Coletando dados da web moderna**
+* **Python: Escreva seus primeiros programas** — Felipe Cruz
+* **Aprendendo Padrões de Projeto em Python** — Chetan Giridhar
+* **Web Scraping com Python – 3ª Edição: Coletando dados da web moderna** — Ryan Mitchell
 * **Código Limpo: Habilidades Práticas do Agile Software** — Robert C. Martin
 
 > Leituras utilizadas como apoio para reforçar fundamentos, boas práticas, arquitetura de software e aplicações práticas em Python.
