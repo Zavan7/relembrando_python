@@ -47,6 +47,26 @@ O objetivo principal é **reforçar os fundamentos da linguagem**, consolidar bo
 
 ---
 
+## 📖 Observações de Leitura
+
+As anotações abaixo indicam **como cada livro influencia ou complementa** os estudos presentes neste repositório.
+
+- **Python: Escreva seus primeiros programas — Felipe Cruz**  
+  Utilizado como apoio para reforçar conceitos iniciais da linguagem, especialmente sintaxe, tipos primitivos e controle de fluxo.
+
+- **Aprendendo Padrões de Projeto em Python — Chetan Giridhar**  
+  Referência para introdução gradual a padrões de projeto aplicados em Python, com foco em organização, reutilização e manutenção de código.
+
+- **Web Scraping com Python — Ryan Mitchell**  
+  Base conceitual para estudos futuros de coleta e automação de dados, influenciando práticas de estruturação e tratamento de dados.
+
+- **Python Poderoso — Aaron Maxwell**  
+  Apoio em tópicos mais avançados, como escrita de código idiomático, desempenho e boas decisões de design.
+
+- **Código Limpo — Robert C. Martin**  
+  Influencia diretamente a organização, nomeação, legibilidade e responsabilidade das funções e módulos presentes no repositório.
+
+
 ## 🗂 Estrutura do Repositório
 
 ```text
