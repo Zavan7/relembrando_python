@@ -42,3 +42,13 @@ if (
 
 else:
     print('Boa viagem')
+
+
+'''
+Função id
+'''
+
+var_um = 'a'
+var_dois = 'b'
+print(id(var_um))
+print(id(var_dois))
