@@ -1,0 +1,12 @@
+INFO  - Iniciando aplicação
+INFO  - Conectando ao banco de dados
+ERROR - Falha na conexão com o banco: TimeoutError
+DEBUG - Tentando reconexão (1/3)
+INFO  - Conexão estabelecida com sucesso
+INFO  - Usuário autenticado: id=4582
+WARNING - Tempo de resposta alto: 3.2s
+WARNING - Tempo de resposta alto: 8.2s
+WARNING - Tempo de resposta alto: 7.2s
+ERROR - Erro ao processar pagamento: ValueError
+DEBUG - Payload recebido: {"user_id": 4582, "amount": "R$100,00"}
+INFO  - Aplicação finalizada
