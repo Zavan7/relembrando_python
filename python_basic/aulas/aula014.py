@@ -45,12 +45,12 @@ Introdução ao loop while (Enquanto)
 # print('Acabou')
 
 
-linha = 1
+# linha = 1
 
-while linha <= 5:
-    coluna = 1
-    while coluna <= 5:
-        print(f'Linha: {linha} | Coluna: {coluna}')
-        coluna += 1
-    linha += 1
-print('Acabou')
+# while linha <= 5:
+#     coluna = 1
+#     while coluna <= 5:
+#         print(f'Linha: {linha} | Coluna: {coluna}')
+#         coluna += 1
+#     linha += 1
+# print('Acabou')
